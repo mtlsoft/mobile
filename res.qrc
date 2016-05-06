@@ -1,0 +1,11 @@
+<RCC>
+ <qresource prefix="/">
+  <file>pages/0/porsche_logo.png</file>
+  <file>pages/1/Ferrari_emblem.png</file>
+  <file>schema.json</file>
+ </qresource>
+ <qresource prefix="/modules">
+  <file>pages/0/demo_module/porshe.jpg</file>
+  <file>pages/1/demo_module/ferrari.jpg</file>
+ </qresource>
+</RCC>

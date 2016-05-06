@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mtl_main.qml</file>
+        <file>mtl_mobile.js</file>
+        <file>mtl_page.qml</file>
+    </qresource>
+    <qresource prefix="/modules">
+        <file>test_module.qml</file>
+        <file>demo_module.qml</file>
+    </qresource>
+</RCC>
